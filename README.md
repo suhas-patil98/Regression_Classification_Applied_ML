@@ -1,1 +1,3 @@
 # Regression_Classification_Applied_ML
+
+https://www.researchgate.net/publication/323655455_Fraudulent_Firm_Classification_A_Case_Study_of_an_External_Audit
